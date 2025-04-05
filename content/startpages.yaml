@@ -103,8 +103,8 @@
             - !Separator
             - !Link
               ico: <i class="fa-solid fa-network-wired"></i>
-              lbl: FRITZ!Box
-              url: http://192.168.178.1/
+              lbl: DigiBox
+              url: http://192.168.2.1/
             - !Link
               ico: <i class="fa-solid fa-chart-bar"></i>
               lbl: Blog Analytics
